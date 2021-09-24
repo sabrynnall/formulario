@@ -44,7 +44,7 @@ Ao digitar nos campos correspondentes e clicar no botão concluir uma nova pági
 
 <br>
 
-<img src='./imagens/cadastroRealizado'>
+<img src='./imagens/cadastroRealizado.png'>
 
 <!-- CONTACT -->
 
