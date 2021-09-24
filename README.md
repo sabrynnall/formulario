@@ -32,7 +32,7 @@
 
 # Vizualizando
 
-  1 - Para verificar a funcionalidade da página é recomendado instalar a extensão Live Server no VsCode. 2 - Clicar no arquivo HTML com o botão direito e selecionar a opção "Open with Live Server"
+  1 - Para verificar a funcionalidade da página é recomendado instalar a extensão Live Server no VsCode. <br> 2 - Clicar no arquivo HTML com o botão direito e selecionar a opção "Open with Live Server"
 
 <br>
 
