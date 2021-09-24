@@ -38,6 +38,13 @@
 
 <img src='./imagens/formulario.png'>
 
+<br>
+
+Ao digitar nos campos correspondentes e clicar no botão concluir uma nova página surge com uma mensagem de sucesso!
+
+<br>
+
+<img src='./imagens/cadastroRealizado'>
 
 <!-- CONTACT -->
 
