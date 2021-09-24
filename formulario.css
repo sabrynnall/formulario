@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-#titulo{
+#titulo {
     font-family: sans-serif;
     color:#9c217d;
     margin-left: 7%;
@@ -13,6 +13,27 @@
     font-family: sans-serif;
     color:#9c217d;
     margin-left: 10%;
+}
+
+#titulo2 {
+    font-family: sans-serif;
+    color:#9c217d;
+    margin-left: -6%;
+    margin-top: 25%;
+}
+
+#subtitulo2 {
+    font-family: sans-serif;
+    color:#9c217d;
+    margin-left: center;
+    margin-top: 2%;
+}
+
+#emoji {
+    font-family: sans-serif;
+    color:#9c217d;
+    margin-left: 16%;
+    margin-top: 2%;
 }
 
 #check {
